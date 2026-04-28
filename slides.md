@@ -18,11 +18,25 @@ style: |
 
 <!-- _paginate: false -->
 
-<div style="font-size:0.8em; color:#60a5fa; margin-bottom:0.5rem; letter-spacing:0.1em; text-transform:uppercase;">Codemotion Madrid 2025</div>
+<div style="margin-top:40px;">
+  <div style="font-size:0.75em; color:#60a5fa; letter-spacing:0.12em; text-transform:uppercase; margin-bottom:12px;">Codemotion Madrid 2025</div>
+  <div style="font-size:1.6em; font-weight:700; color:#e2e8f0; line-height:1.3; text-shadow:0 0 20px rgba(96,165,250,0.2);">
+    Day 2 — Recap
+  </div>
+  <div style="height:2px; background:linear-gradient(to right, #60a5fa, transparent); margin:18px 0; width:60%;"></div>
+  <div style="font-size:0.82em; color:#94a3b8;">Lo que nos contaron (y lo que nos quedamos pensando)</div>
+</div>
 
-# Day 2 — Recap
-
-<div style="color:#94a3b8; font-size:0.85em; margin-top:1rem;">Lo que nos contaron (y lo que nos quedamos pensando)</div>
+<div style="position:absolute; bottom:28px; left:48px; right:48px; display:flex; align-items:center; justify-content:space-between; border-top:1px solid #1e293b; padding-top:16px;">
+  <div>
+    <div style="font-size:0.82em; font-weight:600; color:#e2e8f0;">Antonio Peña</div>
+    <div style="font-size:0.68em; color:#60a5fa; margin-top:3px;">CaixaBank Tech</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; gap:6px;">
+    <img src="images/qr.png" style="width:130px; height:130px; border-radius:10px; border:2px solid #60a5fa; padding:5px; background:white;" />
+    <div style="font-size:0.55em; color:#475569;">apenab.github.io/codemodetion-day2</div>
+  </div>
+</div>
 
 <!--
 NOTES — Title
@@ -267,10 +281,10 @@ NOTES — Futuro COBOL
 <div style="display:flex; flex-direction:column; gap:10px; margin-top:8px;">
   <div style="background:rgba(96,165,250,0.1); border:1px solid #60a5fa; border-radius:10px; padding:12px;">
     <div style="color:#93c5fd; font-size:0.9em; font-weight:600;">🏆 Claude Opus 4.7</div>
-    <div style="color:#94a3b8; font-size:0.78em; margin-top:4px;">Anthropic sube la apuesta en la arena de LLMs.</div>
+    <div style="color:#94a3b8; font-size:0.78em; margin-top:4px;">Anthropic consolida su posición en la arena de LLMs.</div>
   </div>
   <div style="background:rgba(34,197,94,0.08); border:1px solid #22c55e; border-radius:10px; padding:12px;">
-    <div style="color:#86efac; font-size:0.9em; font-weight:600;">⚡ GPT-5 también acaba de llegar</div>
+    <div style="color:#86efac; font-size:0.9em; font-weight:600;">⚡ GPT-5 recién lanzado</div>
     <div style="color:#94a3b8; font-size:0.78em; margin-top:4px;">OpenAI responde. La carrera no para.</div>
   </div>
   <div style="background:rgba(96,165,250,0.05); border-left:3px solid #475569; border-radius:0 6px 6px 0; padding:8px 12px; font-size:0.78em; color:#94a3b8;">
@@ -295,7 +309,7 @@ Esta semana ha sido intensa en releases. Claude Opus 4.7 de Anthropic apareció 
 
 ## 512K líneas expuestas durante horas
 
-![bg right:45% 90%](claude-code-leak.png)
+![bg right:55% 95%](claude-code-leak.png)
 
 <div style="display:flex; flex-direction:column; gap:10px; margin-top:4px;">
   <div style="background:rgba(239,68,68,0.12); border:1px solid #ef4444; border-radius:10px; padding:12px;">
@@ -338,16 +352,16 @@ El 31 de marzo Anthropic incluyó por error el source map de JavaScript de Claud
 
 ## El contexto lo es todo
 
-![bg right:45% 90%](knowled-base-karpathy.png)
+![bg right:62% contain](knowled-base-karpathy.png)
 
 <div style="display:flex; flex-direction:column; gap:10px; margin-top:8px;">
-  <div style="background:rgba(96,165,250,0.1); border:1px solid #60a5fa; border-radius:10px; padding:12px;">
-    <div style="color:#93c5fd; font-size:0.9em; font-weight:600;">🗂️ Knowledge bases estructuradas</div>
-    <div style="color:#94a3b8; font-size:0.78em; margin-top:4px;">Para que el agente navegue bien el conocimiento del proyecto.</div>
+  <div style="background:rgba(96,165,250,0.1); border:1px solid #60a5fa; border-radius:10px; padding:10px;">
+    <div style="color:#93c5fd; font-size:0.78em; font-weight:600;">🗂️ Knowledge bases estructuradas</div>
+    <div style="color:#94a3b8; font-size:0.68em; margin-top:3px;">Para que el agente navegue bien el conocimiento del proyecto.</div>
   </div>
-  <div style="background:rgba(34,197,94,0.08); border:1px solid #22c55e; border-radius:10px; padding:12px;">
-    <div style="color:#86efac; font-size:0.9em; font-weight:600;">💡 Garbage in, garbage out</div>
-    <div style="color:#94a3b8; font-size:0.78em; margin-top:4px;">La calidad del contexto define la calidad del output. Siempre.</div>
+  <div style="background:rgba(34,197,94,0.08); border:1px solid #22c55e; border-radius:10px; padding:10px;">
+    <div style="color:#86efac; font-size:0.78em; font-weight:600;">💡 Garbage in, garbage out</div>
+    <div style="color:#94a3b8; font-size:0.68em; margin-top:3px;">La calidad del contexto define la calidad del output. Siempre.</div>
   </div>
 </div>
 
