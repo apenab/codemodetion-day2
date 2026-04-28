@@ -1,0 +1,14 @@
+{
+  "name": "codemotion-resume",
+  "version": "1.0.0",
+  "scripts": {
+    "preview": "marp --watch --server --html slides.md",
+    "build": "npm run html && npm run pdf",
+    "html": "marp --html -o slides.html slides.md",
+    "pdf": "marp --html --pdf -o slides.pdf slides.md",
+    "watch": "marp --watch --html slides.md"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}
