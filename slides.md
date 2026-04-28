@@ -374,21 +374,28 @@ Andrej Karpathy compartió su enfoque para vibe coding con agentes de IA. La cla
 
 <!-- _paginate: false -->
 
-<div style="display:flex; flex-direction:column; align-items:center; justify-content:center; height:80%; gap:20px;">
-
-<div style="font-size:0.8em; color:#60a5fa; letter-spacing:0.1em; text-transform:uppercase;">Codemotion Madrid 2025 — Day 2</div>
-
-<div style="font-size:2em; font-weight:700; color:#e2e8f0; text-align:center; line-height:1.3;">
-  La IA avanza rápido.<br/>
-  <span style="color:#60a5fa;">Nosotros también.</span>
+<div style="margin-top:40px; text-align:center;">
+  <div style="font-size:0.75em; color:#60a5fa; letter-spacing:0.12em; text-transform:uppercase; margin-bottom:12px;">Codemotion Madrid 2025 — Day 2</div>
+  <div style="font-size:1.6em; font-weight:700; color:#e2e8f0; line-height:1.3; text-shadow:0 0 20px rgba(96,165,250,0.2);">
+    La IA avanza rápido.<br/><span style="color:#60a5fa;">Nosotros también.</span>
+  </div>
+  <div style="height:2px; background:linear-gradient(to right, transparent, #60a5fa, transparent); margin:18px auto; width:60%;"></div>
+  <div style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center;">
+    <div style="background:rgba(96,165,250,0.08); border:1px solid rgba(96,165,250,0.3); border-radius:6px; padding:5px 12px; font-size:0.75em; color:#93c5fd;">⚠️ Usa la IA con criterio</div>
+    <div style="background:rgba(96,165,250,0.08); border:1px solid rgba(96,165,250,0.3); border-radius:6px; padding:5px 12px; font-size:0.75em; color:#93c5fd;">💬 No dejes de hablar con personas</div>
+    <div style="background:rgba(96,165,250,0.08); border:1px solid rgba(96,165,250,0.3); border-radius:6px; padding:5px 12px; font-size:0.75em; color:#93c5fd;">🗂️ Cuida tu contexto</div>
+  </div>
 </div>
 
-<div style="display:flex; gap:12px; margin-top:8px; flex-wrap:wrap; justify-content:center;">
-  <div style="background:rgba(96,165,250,0.08); border:1px solid rgba(96,165,250,0.3); border-radius:6px; padding:5px 12px; font-size:0.78em; color:#93c5fd;">⚠️ Usa la IA con criterio</div>
-  <div style="background:rgba(96,165,250,0.08); border:1px solid rgba(96,165,250,0.3); border-radius:6px; padding:5px 12px; font-size:0.78em; color:#93c5fd;">💬 No dejes de hablar con personas</div>
-  <div style="background:rgba(96,165,250,0.08); border:1px solid rgba(96,165,250,0.3); border-radius:6px; padding:5px 12px; font-size:0.78em; color:#93c5fd;">🗂️ Cuida tu contexto</div>
-</div>
-
+<div style="position:absolute; bottom:28px; left:48px; right:48px; display:flex; align-items:center; justify-content:space-between; border-top:1px solid #1e293b; padding-top:16px;">
+  <div>
+    <div style="font-size:0.82em; font-weight:600; color:#e2e8f0;">Antonio Peña</div>
+    <div style="font-size:0.68em; color:#60a5fa; margin-top:3px;">CaixaBank Tech</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; gap:6px;">
+    <img src="images/qr.png" style="width:130px; height:130px; border-radius:10px; border:2px solid #60a5fa; padding:5px; background:white;" />
+    <div style="font-size:0.55em; color:#475569;">apenab.github.io/codemodetion-day2</div>
+  </div>
 </div>
 
 <!--
