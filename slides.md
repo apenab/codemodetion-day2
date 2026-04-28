@@ -45,6 +45,46 @@ Bienvenidos al resumen del día 2 de Codemotion Madrid.
 
 ---
 
+## Índice
+
+<div style="display:flex; flex-direction:column; gap:12px; margin-top:16px;">
+  <div style="display:flex; align-items:center; gap:14px; background:rgba(234,179,8,0.08); border:1px solid #eab308; border-radius:10px; padding:12px 18px;">
+    <div style="font-size:1.3em; min-width:32px; text-align:center;">⚠️</div>
+    <div style="text-align:left;">
+      <div style="color:#fde68a; font-weight:700; font-size:0.88em;">Bloque 1 — Desafíos de uso de la IA</div>
+      <div style="color:#94a3b8; font-size:0.72em; margin-top:2px;">Adopción masiva, deepfakes y el valor de hablar con personas</div>
+    </div>
+  </div>
+  <div style="display:flex; align-items:center; gap:14px; background:rgba(96,165,250,0.08); border:1px solid #60a5fa; border-radius:10px; padding:12px 18px;">
+    <div style="font-size:1.3em; min-width:32px; text-align:center;">🔀</div>
+    <div style="text-align:left;">
+      <div style="color:#93c5fd; font-weight:700; font-size:0.88em;">Bloque 2 — Migración GitLab → GitHub</div>
+      <div style="color:#94a3b8; font-size:0.72em; margin-top:2px;">Complejidad real de una migración de plataforma</div>
+    </div>
+  </div>
+  <div style="display:flex; align-items:center; gap:14px; background:rgba(96,165,250,0.08); border:1px solid #60a5fa; border-radius:10px; padding:12px 18px;">
+    <div style="font-size:1.3em; min-width:32px; text-align:center;">🏛️</div>
+    <div style="text-align:left;">
+      <div style="color:#93c5fd; font-weight:700; font-size:0.88em;">Bloque 3 — Modernización de COBOL</div>
+      <div style="color:#94a3b8; font-size:0.72em; margin-top:2px;">El abismo entre paradigmas y el futuro del lenguaje</div>
+    </div>
+  </div>
+  <div style="display:flex; align-items:center; gap:14px; background:rgba(96,165,250,0.08); border:1px solid #60a5fa; border-radius:10px; padding:12px 18px;">
+    <div style="font-size:1.3em; min-width:32px; text-align:center;">🤖</div>
+    <div style="text-align:left;">
+      <div style="color:#93c5fd; font-weight:700; font-size:0.88em;">Bloque 4 — Noticias del ecosistema</div>
+      <div style="color:#94a3b8; font-size:0.72em; margin-top:2px;">Opus 4.7, GPT-5, el filtrado de Claude Code y Karpathy</div>
+    </div>
+  </div>
+</div>
+
+<!--
+NOTES — Índice
+Estructura de la sesión en cuatro bloques: empezamos con una reflexión crítica sobre el uso de IA, luego trabajo de ingeniería real con la migración y COBOL, y cerramos con las novedades más relevantes del ecosistema de esta semana.
+-->
+
+---
+
 <!-- _class: invert -->
 
 <div style="font-size:0.75em; color:#eab308; margin-bottom:0.5rem; text-transform:uppercase; letter-spacing:0.08em;">Bloque 1</div>
